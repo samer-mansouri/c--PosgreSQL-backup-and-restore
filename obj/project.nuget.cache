@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzjSYCS2G6gpNajgHOhKvCYw7NtTi4j0C68PDEDltTqm2jTlmF0XZu5iiups/d9L35ESmWD22RI7poXX0QICqA==",
+  "success": true,
+  "projectFilePath": "/home/samer/Bureau/dba/dba/dba.csproj",
+  "expectedPackageFiles": [
+    "/home/samer/.nuget/packages/atksharp/3.22.25.128/atksharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/cairosharp/3.22.25.128/cairosharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/gdksharp/3.22.25.128/gdksharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/giosharp/3.22.25.128/giosharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/glibsharp/3.22.25.128/glibsharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/gtksharp/3.22.25.128/gtksharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/npgsql/6.0.4/npgsql.6.0.4.nupkg.sha512",
+    "/home/samer/.nuget/packages/pangosharp/3.22.25.128/pangosharp.3.22.25.128.nupkg.sha512",
+    "/home/samer/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/samer/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

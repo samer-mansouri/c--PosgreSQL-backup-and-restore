@@ -1,0 +1,18 @@
+pg_dump: error: too many command-line arguments (first is "postgresql://postgres:123456@127.0.0.1:5432/bizerte1")
+Try "pg_dump --help" for more information.
+pg_dump: error: too many command-line arguments (first is "PGPASSWORD=123456")
+Try "pg_dump --help" for more information.
+pg_dump: error: too many command-line arguments (first is "pg_dump")
+Try "pg_dump --help" for more information.
+pg_dump: error: too many command-line arguments (first is ">")
+Try "pg_dump --help" for more information.
+pg_dump: error: too many command-line arguments (first is ">")
+Try "pg_dump --help" for more information.
+pg_dump: error: too many command-line arguments (first is ">")
+Try "pg_dump --help" for more information.
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
+pg_dump: error: could not open output file "/mytestfile.zip": Permission non accordée
